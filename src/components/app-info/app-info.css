@@ -1,0 +1,12 @@
+.app-info{
+    padding: 25px;
+    background-image: url('/src/img/sakura.png');
+    background-position: right;
+    background-size: cover;
+    background-size: 46%;
+    background-repeat: no-repeat;
+    background-color: #04ADBF;
+    border-radius: 4px;
+    box-shadow: 15px 15px 30px rgba(0,0,0, .15);
+    color: #380c50;
+}
